@@ -1,4 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
 
     - [DEMO LINK](https://ruslanliapin.github.io/TodoApp-with-api/)
 
